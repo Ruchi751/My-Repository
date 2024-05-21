@@ -1,5 +1,3 @@
 # My-Repository
 This is my Git repository.
-<br>
-Author - Ruchi Sahariya (my repo.)
-
+Project - Netflix Clone project of HTML, CSS and JS
